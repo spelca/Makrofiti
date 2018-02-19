@@ -6,3 +6,9 @@ output: html_document
 ---
 
 
+naloži pakete
+
+```{r}
+library(vegan)
+```
+
